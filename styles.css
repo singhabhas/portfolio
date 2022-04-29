@@ -1,0 +1,26 @@
+body{
+    background-color: #EEEDDE;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Handwriting';
+}
+h1,h2,h3{
+    color: #1C0A00;
+    margin-top: 0;
+}
+hr{
+    border-style: none;
+    border-top-style: dashed;
+    border-width: 7px;
+    width: 8%;
+    color: indianred;
+}
+ul{
+    list-style: none;
+}
+.intro{
+    background-color: #CE9461;
+    padding-bottom: 3rem;
+}
+
