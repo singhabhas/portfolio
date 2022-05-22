@@ -22,8 +22,9 @@ ul{
 .intro{
     background-color: #F190B7;
     padding-bottom: 3rem;
+    
 }
-ul.nav li{
+.nav li,.connect li{
     display: inline;
 }
 .nav{
@@ -48,9 +49,17 @@ div{
 li a:hover {
     color: cyan;
 }
-li a {
+.nav a {
     color: white;
     padding: 14px 16px;
     text-decoration: none;
   }
+.connect{
+    background-color: #EB5353;
+    padding: 0.3rem;
+    font-size: larger;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
 
