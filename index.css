@@ -3,21 +3,20 @@ body{
     text-align: center;
     margin: 0;
     padding: 0;
-    font-family: cursive;
+    font-family: 'Comic Sans MS';
 }
 ul{
     list-style: none;
 }
-footer{
+.footer{
+    bottom: 0;
     width:100%;
-    position: absolute;
-    margin-bottom: 0;
-    height:25px;
     color: whitesmoke;
     background-color: #CE49BF;
     height: 2.3rem;
     padding-top: 5px;
-}
+    padding-bottom: 7px;
+  }
 li{
     padding: 2rem;
 }
