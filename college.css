@@ -12,6 +12,7 @@ body{
     padding: 0rem;
     width: 100%;
     position: fixed;
+    font-size: medium;
 }
 .footer{
     width:100%;
